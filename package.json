@@ -1,16 +1,23 @@
 {
-  "name": "node-js-playlist",
+  "name": "thesis_1",
   "version": "1.0.0",
-  "description": "a litte ",
-  "main": "index.js",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "dale",
-  "license": "ISC",
-  "dependencies": {
-    "ejs": "^2.5.6",
-    "express": "^4.15.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dellryuzi/thesis_1.git"
   },
-  "devDependencies": {}
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dellryuzi/thesis_1/issues"
+  },
+  "homepage": "https://github.com/dellryuzi/thesis_1#readme",
+  "description": ""
 }
